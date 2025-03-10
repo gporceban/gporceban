@@ -1,6 +1,6 @@
 # Dr. Guilherme Porceban
 
-Hello! I'm a medical professional specialized in spinal surgery, currently serving as a preceptor at UNIFESP. I completed my medical degree and residency in Orthopedics and Traumatology at the University of São Paulo (USP). 
+I'm a medical professional specialized in spinal surgery, currently serving as a preceptor at UNIFESP. I completed my medical degree and residency in Orthopedics and Traumatology at the University of São Paulo (USP). 
 
 I'm part of the clinical staff at the Hospital do Coração (HCor), Hospital Israelita Albert Einstein, and Hospital Sírio Libanês.
 
